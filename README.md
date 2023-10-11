@@ -14,8 +14,11 @@
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-AntonovDobrynya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ads_one_a) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:antonov2766@mail.ru)
+  
+- <img src="https://cdn-icons-png.flaticon.com/128/2776/2776063.png" width="40" height="40" alt="VK Badge"/> г. Москва
 
 ---
+
 
 ### 🤝 Социальные сети:
 
