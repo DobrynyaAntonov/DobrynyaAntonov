@@ -5,13 +5,11 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в изучении направления начался еще в 2019 году, с другом в музыкальном колледже делали небольшие сайты на разных конструкорах. Затем был большой перерыв, выпуск, поиск работы в оркестре, но мысли об IT никогда не покидали меня. С ноября 2022 года по октябрь 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы.
+Я Frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в изучении направления начался еще в 2019 году, с другом в музыкальном колледже делали небольшие сайты на разных конструкорах. С того времени работал на фрилансе и параллельно занимался музыкальной деятельностью. с ноября 2022 года углубленно начал изучать веб-разработку. за это время принял участие в двух небольших проектах, где работал в команде с другими разработчиками.
 
 
 
 
-
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-AntonovDobrynya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ads_one_a) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:antonov2766@mail.ru)
   
@@ -58,11 +56,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### 💻 Codewars:
+  <!-- ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/DobrynyaAntonov/badges/large)
 
@@ -78,3 +77,4 @@
     </td>
   </tr>
 </table>
+-->
